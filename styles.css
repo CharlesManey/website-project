@@ -5,4 +5,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-color: #f0f0f0;
+
+    color: silver;
+    text-align: center;
 }
