@@ -79,8 +79,8 @@ body {
 }
 
 .herosection {
-    height: calc(100vh - 100px);
-    max-height: calc(100vh - 80px);
+    height: calc(100vh - 120px);
+    max-height: calc(100vh - 120px);
     position: relative;
     overflow: hidden;
     display: flex;
